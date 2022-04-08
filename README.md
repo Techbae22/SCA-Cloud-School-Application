@@ -1,6 +1,4 @@
 # SCA-Cloud-School-Application
-
-# SCA-Cloud-School-Application
   Creating a Dockerfile with Nodejs
 
 ### Running the project locally
